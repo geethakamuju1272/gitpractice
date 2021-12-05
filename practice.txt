@@ -15,6 +15,15 @@ git push -u origin branch(master)
 2 staged( aftr modifing the files the files should br aded to staging area)
 3 commited (then commit the changes into local repo (.git directory) then push the changes into remote repository)
 
+"branching"
+git branch (to check the existing branches)
+git branch name of the branch (to create a branch)
+git checkout name (to move to another branch)
+git checkout -b name (to create and switch to that branch)
+git switch name (to move to another branch)
+git merge name (or merging)(first go to root branch and then merge)
+
+
 
 
 
