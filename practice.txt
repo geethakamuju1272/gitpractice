@@ -1,1 +1,10 @@
 git commands
+chech wheather the directory is required or not
+git init
+git add .
+git commit -m "comment"
+now the files moved into local repository
+now the files in the local repository moved to remote repository
+that is git remote add origin  1st link in git hub
+git push -u origin branch(master)
+
