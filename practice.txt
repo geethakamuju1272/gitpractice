@@ -1,5 +1,7 @@
 git commands
-chech wheather the directory is required or not
+chech wheather the directory is required or not 
+
+"local repository to remote repository"
 git init
 git add .
 git commit -m "comment"
@@ -7,4 +9,10 @@ now the files moved into local repository
 now the files in the local repository moved to remote repository
 that is git remote add origin  1st link in git hub
 git push -u origin branch(master)
+
+"stages of git"
+1 modified (after intilization the files are un tracked (u) once it is added to local repo then any changes are made to any existing files then files are modified(m))
+2 staged( aftr modifing the files the files should br aded to staging area)
+3 commited (then commit the changes into local repo (.git directory) then push the changes into remote repository)
+
 
