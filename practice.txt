@@ -1,4 +1,4 @@
-git commands
+git git commands
 chech wheather the directory is required or not 
 
 "local repository to remote repository"
@@ -22,6 +22,10 @@ git checkout name (to move to another branch)
 git checkout -b name (to create and switch to that branch)
 git switch name (to move to another branch)
 git merge name (or merging)(first go to root branch and then merge)
+
+"git pull"
+git pull -u origin branch
+
 
 
 
