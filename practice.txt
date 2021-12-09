@@ -26,6 +26,12 @@ git merge name (or merging)(first go to root branch and then merge)
 "git pull"
 git pull -u origin branch
 
+"cloning"
+in remote repository copy the url (code)
+in local repo git clone (paste the link)
+
+
+
 
 
 
